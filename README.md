@@ -1,6 +1,6 @@
 # Temporal segmentation of sign language videos
 
-I have created this repository as a support for my final project for the [Object recognition and computer vision 2021/2022 course](https://www.di.ens.fr/willow/teaching/recvis21/).
+I have created this repository for my final project for the [Object recognition and computer vision 2021/2022 course](https://www.di.ens.fr/willow/teaching/recvis21/).
 
 
 This repository is forked from the original repo for the following two papers:
