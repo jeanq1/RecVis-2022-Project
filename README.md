@@ -25,7 +25,7 @@ This repository provides code for following two papers:
 ## Setup
 
 ``` bash
-# Clone this repository
+# Clone this repositor
 git clone git@github.com:RenzKa/sign-segmentation.git
 cd sign-segmentation/
 # Create signseg_env environment
