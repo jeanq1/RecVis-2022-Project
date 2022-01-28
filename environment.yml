@@ -1,4 +1,4 @@
-name: signseg_env2
+name: signseg_env
 channels:
   - conda-forge
   - defaults
@@ -149,4 +149,4 @@ dependencies:
     - typeguard==2.13.3
     - webvtt-py==0.4.6
     - zsvision==0.5.3
-prefix: /opt/conda/envs/signseg_env2
+prefix: /opt/conda/envs/signseg_env

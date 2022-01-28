@@ -52,6 +52,9 @@ Training for the MSTCN is the same as in the original repository, if you want to
 * main-transformer_torch.py for the Transformer encoder only implementation
 * main-transformer_annotated.py for the Annotated Transformer implementation
 
+They all use the same parameters as the original main.py running MS-TCN.
+
+An example command to run these files would be : python main-transformer.py --action train --extract_set train --train_data bslcp --test_data bslcp --num_epochs 30 --bz 8
 
 
 
