@@ -2,7 +2,7 @@
 
 I have created this repository for my final project for the [Object recognition and computer vision 2021/2022 course](https://www.di.ens.fr/willow/teaching/recvis21/). This projects aims at implementing a transformer architecture for the task of sign segmentation in sign language videos, the final report detailing all experiments is available [here] (Final_Project_Object_Recognition.pdf).
 
-
+![demo](demo/results/demo.gif)
 
 This repository is forked from the original repo for the following two papers:
 
